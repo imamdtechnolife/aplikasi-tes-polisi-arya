@@ -7,6 +7,7 @@ import org.jb2011.lnf.beautyeye.BeautyEyeLNFHelper;
 public class halaman_utama_silogisme {
 	public static void main(String[]args)
 	{
+		
 		try
 		{
 			BeautyEyeLNFHelper.frameBorderStyle = BeautyEyeLNFHelper.frameBorderStyle.generalNoTranslucencyShadow;
